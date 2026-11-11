@@ -88,3 +88,8 @@ Desktop.ini
 # ==========================================
 sysinfo.txt
 crashlytics-build.properties
+
+# Visual Studio solutions
+*.sln
+*.slnx
+*.csproj
